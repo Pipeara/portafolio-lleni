@@ -91,11 +91,11 @@ a:link {
 
 a:visited {
     text-decoration: none;
-    color: #373a3c;
+    color: #4e3798;
 }
 
 .card {
-    color: rgb(184, 157, 199);
+    color: rgb(231, 159, 245);
     margin-top: 30px;
 }
 
@@ -148,7 +148,7 @@ section {
 }
 
 section .row {
-    background-color: rgb(70, 59, 71);
+    background-color: rgb(159, 133, 163);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-top: 80px;
     color: white;
